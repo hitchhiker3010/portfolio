@@ -1,1 +1,1 @@
-Sitemap: https://hitchhiker3010.github.io/fastpages_setup/sitemap.xml
+Sitemap: https://sukesh.dev/sitemap.xml
