@@ -14,7 +14,7 @@ github_repo: "fastpages_setup"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://sukesh.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hitchhiker3010.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
